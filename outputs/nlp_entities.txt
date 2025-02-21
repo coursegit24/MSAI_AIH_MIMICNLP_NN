@@ -1,0 +1,355 @@
+General Entities:
+
+Scientific Entities:
+Admission: ENTITY
+LF: ENTITY
+Invasive Procedure: ENTITY
+yo M: ENTITY
+melanoma: ENTITY
+resection: ENTITY
+metastatic melanoma: ENTITY
+brain: ENTITY
+admitted: ENTITY
+[**5-3**]: ENTITY
+SAH: ENTITY
+SDH: ENTITY
+resection: ENTITY
+tumor: ENTITY
+cyst
+cavities: ENTITY
+[**5-6**]: ENTITY
+S/p: ENTITY
+craniotomy: ENTITY
+[**5-6**]: ENTITY
+aphasic: ENTITY
+myoclonic seizures: ENTITY
+EEG: ENTITY
+seizure: ENTITY
+days: ENTITY
+sepsis: ENTITY
+lowered: ENTITY
+max: ENTITY
+doses: ENTITY
+dilantin: ENTITY
+Keppra: ENTITY
+neuro
+for AED: ENTITY
+recommendations: ENTITY
+MICU: ENTITY
+management: ENTITY
+septic shock: ENTITY
+blood: ENTITY
+urine: ENTITY
+CTX: ENTITY
+meropenem: ENTITY
+afebrile: ENTITY
+leukocytosis: ENTITY
+meropenem: ENTITY
+LP: ENTITY
+MICU: ENTITY
+MICU: ENTITY
+fib: ENTITY
+flutter: ENTITY
+tele: ENTITY
+PE: ENTITY
+negative: ENTITY
+CTA: ENTITY
+LENIs: ENTITY
+fluids: ENTITY
+HR: ENTITY
+PO
+diltiazem: ENTITY
+metoprolol: ENTITY
+HCP: ENTITY
+DNR/DNI: ENTITY
+goals: ENTITY
+Neuro-oncology: ENTITY
+XRT: ENTITY
+discussion: ENTITY
+poor performance status limiting: ENTITY
+gains: ENTITY
+ROS: ENTITY
+HPI
+
+
+Past Medical History:
+HTN: ENTITY
+Hypercholestolemia: ENTITY
+lung CA: ENTITY
+Asthma: ENTITY
+Depression
+
+Social History:
+He: ENTITY
+lives: ENTITY
+hairdresser: ENTITY
+disablity: ENTITY
+years: ENTITY
+heavy smoker: ENTITY
+brother: ENTITY
+healthy: ENTITY
+children: ENTITY
+died: ENTITY
+age: ENTITY
+benign: ENTITY
+mother: ENTITY
+died: ENTITY
+complications: ENTITY
+stroke: ENTITY
+carotid endarterectomy: ENTITY
+T98 BP: ENTITY
+HR: ENTITY
+RR: ENTITY
+RA
+General: ENTITY
+bed: ENTITY
+sometimes
+knows: ENTITY
+hospital: ENTITY
+commands: ENTITY
+raise 2 fingers: ENTITY
+Strength: ENTITY
+Cranitomy scare: ENTITY
+C/D/I: ENTITY
+mmm
+CV: ENTITY
+irregularly: ENTITY
+soft: ENTITY
+normal bowel sounds: ENTITY
+wet read: ENTITY
+Stable large left temporal lobe intraparenchymal: ENTITY
+edema: ENTITY
+mass effect: ENTITY
+left
+lateral ventricle: ENTITY
+Stable: ENTITY
+midline
+structures: ENTITY
+Mild increas: ENTITY
+R hemispheric SAH: ENTITY
+Mild increase: ENTITY
+R Temporo
+parietal SDH: ENTITY
+mild: ENTITY
+increase: ENTITY
+right temporal parenchymal
+hematoma and: ENTITY
+edema: ENTITY
+Stable left inferior frontal hemorrhagic contusion: ENTITY
+edema: ENTITY
+herniation: ENTITY
+preoperative: ENTITY
+planning
+of left: ENTITY
+hemorrhage: ENTITY
+patient's history: ENTITY
+lung cancer: ENTITY
+Stable foci: ENTITY
+left frontal lobe: ENTITY
+right
+temporal lobe: ENTITY
+Stable right subdural hematoma: ENTITY
+Status post resection: ENTITY
+left temporal mass: ENTITY
+post-surgical changes: ENTITY
+lesion: ENTITY
+postoperative: ENTITY
+nature: ENTITY
+No hydrocephalus: ENTITY
+Hemorrhagic contusions: ENTITY
+right-sided subdural collections: ENTITY
+CBC: ENTITY
+WBC: ENTITY
+Bact: ENTITY
+Leuk neg
+
+[**5-9**] ECHO: ENTITY
+left atrium: ENTITY
+suboptimal: ENTITY
+technical quality: ENTITY
+focal wall motion abnormality: ENTITY
+left ventricular systolic function: ENTITY
+Right ventricular chamber size: ENTITY
+free wall
+motion: ENTITY
+aortic valve stenosis: ENTITY
+mitral regurgitation: ENTITY
+pericardial effusion: ENTITY
+CHEST: ENTITY
+IMPRESSION:
+1: ENTITY
+evidence: ENTITY
+PE: ENTITY
+Moderate: ENTITY
+atherosclerosis: ENTITY
+ulcerated: ENTITY
+Moderate: ENTITY
+hiatal hernia: ENTITY
+Right adrenal adenoma: ENTITY
+IMPRESSION: ENTITY
+No bilateral: ENTITY
+DVT: ENTITY
+h/o lung cancer: ENTITY
+[**2169**] s/p resection: ENTITY
+melanoma of left
+arm s/p excision: ENTITY
+[**2167**]: ENTITY
+left temporal
+hemorrhage: ENTITY
+secondary to: ENTITY
+metastatic melanoma: ENTITY
+gross resection of lesion: ENTITY
+ICU: ENTITY
+neurosurgery service: ENTITY
+craintomy: ENTITY
+lesion: ENTITY
+melanoma: ENTITY
+Afib: ENTITY
+RVR: ENTITY
+rate controlled: ENTITY
+oral diltizem: ENTITY
+lopressor: ENTITY
+enterobacter bacteremia: ENTITY
+treated: ENTITY
+days: ENTITY
+meropenem: ENTITY
+Neuro-Oncology: ENTITY
+contact[**Name: ENTITY
+XRT
+: ENTITY
+chemotherapeutic [**Doctor: ENTITY
+patient: ENTITY
+tolerate: ENTITY
+mapping: ENTITY
+sitting: ENTITY
+Systemic chemotherapy: ENTITY
+co-morbidities: ENTITY
+family meetings: ENTITY
+prognosis: ENTITY
+decision: ENTITY
+mental status: ENTITY
+improved: ENTITY
+family: ENTITY
+decision: ENTITY
+health care: ENTITY
+hospice: ENTITY
+comfort: ENTITY
+hospice: ENTITY
+non-comfort: ENTITY
+medications: ENTITY
+discharge: ENTITY
+pain medication: ENTITY
+medication: ENTITY
+atrial fibrillation: ENTITY
+aspirin: ENTITY
+anti-seizure medication: ENTITY
+GERD medication: ENTITY
+Admission:
+Vicoden ES: ENTITY
+Q: ENTITY
+Xanax: ENTITY
+prn: ENTITY
+MVI: ENTITY
+citalopram: ENTITY
+daily: ENTITY
+ProAir: ENTITY
+HFA: ENTITY
+IH: ENTITY
+Q 6h prn: ENTITY
+Gabapentin
+300mg [**Hospital1 **]: ENTITY
+Lisinopril 5mg daily: ENTITY
+Metoprolol ER: ENTITY
+nicoderm: ENTITY
+symbicort: ENTITY
+[**Hospital1 **]: ENTITY
+HFA
+Aerosol INH daily: ENTITY
+Simvastatin: ENTITY
+HCl: ENTITY
+Capsule: ENTITY
+Extended Release Sig: ENTITY
+Extended: ENTITY
+PO DAILY: ENTITY
+Daily: ENTITY
+Tablet Sig: ENTITY
+Tablet PO: ENTITY
+BID: ENTITY
+loose stool: ENTITY
+metoprolol: ENTITY
+tartrate: ENTITY
+Tablet Sig: ENTITY
+Tablet PO: ENTITY
+day: ENTITY
+mg/5: ENTITY
+dose: ENTITY
+PO: ENTITY
+BID: ENTITY
+day: ENTITY
+loose stool: ENTITY
+Tablet Sig: ENTITY
+Tablet PO: ENTITY
+TID: ENTITY
+omeprazole: ENTITY
+Capsule: ENTITY
+Delayed Release(E.C.) Sig: ENTITY
+PO DAILY: ENTITY
+Daily: ENTITY
+citalopram: ENTITY
+Tablet Sig: ENTITY
+Tablet PO DAILY: ENTITY
+Daily: ENTITY
+morphine: ENTITY
+concentrate: ENTITY
+mg/5: ENTITY
+PO: ENTITY
+Q4H: ENTITY
+hours: ENTITY
+pain: ENTITY
+morphine: ENTITY
+Tablet: ENTITY
+Tablet
+Extended Release: ENTITY
+hours: ENTITY
+levetiracetam: ENTITY
+Tablet Sig: ENTITY
+Tablet PO: ENTITY
+BID: ENTITY
+day: ENTITY
+mg/5: ENTITY
+Q8H: ENTITY
+hours: ENTITY
+Tablet Sig: ENTITY
+Tablet PO Q6H
+: ENTITY
+hours: ENTITY
+lidocaine: ENTITY
+Adhesive Patch: ENTITY
+Medicated Sig:
+One (1): ENTITY
+Adhesive Patch: ENTITY
+Medicated Topical DAILY: ENTITY
+Daily: ENTITY
+Confused: ENTITY
+always: ENTITY
+Consciousness: ENTITY
+Lethargic: ENTITY
+arousable: ENTITY
+admitted with: ENTITY
+bleeding: ENTITY
+head: ENTITY
+mass: ENTITY
+melanoma: ENTITY
+metastatic: ENTITY
+decision: ENTITY
+treatment: ENTITY
+cancer: ENTITY
+hospice: ENTITY
+pleasure: ENTITY
+participating: ENTITY
+your care
+
+Followup Instructions: ENTITY
+Medical Entities:
+
+ClinicalBERT Extracted Entities:
